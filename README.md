@@ -1,6 +1,6 @@
 # 👋 Welcome to My Data Science Portfolio!
 
-Greetings! I'm [Your Name], a dedicated data scientist and machine learning aficionado. Within this repository, you'll find a curated collection showcasing my expertise in extracting insights and building predictive models using Python, SQL, and Snowflake.
+Greetings! I'm Shankar Reddy Syamala, a dedicated data scientist and machine learning aficionado. Within this repository, you'll find a curated collection showcasing my expertise in extracting insights and building predictive models using Python, SQL, and Snowflake.
 
 ## About Me 🧑‍💼
 
@@ -14,7 +14,7 @@ I'm deeply passionate about the intersection of data and innovation. With a robu
 
 ## Let's Connect and Collaborate! 🌐
 
-I'm always eager to connect with like-minded professionals and explore opportunities for collaboration. Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername), and let's embark on an enriching journey together.
+I'm always eager to connect with like-minded professionals and explore opportunities for collaboration. Reach out to me on , and let's embark on an enriching journey together.
 
 ## Get in Touch! 📫
 
